@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr James Panton"
-  avatar           : "profile_image.jpeg"
-  bio              : "Research associate in Geodynamics at Cardiff University. My research interests include mantle dynamics, structure and composition. "
+  name             : "Zhibin Lei"
+  avatar           : "lei-portrait_photo.jpg"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Cardiff, Wales, UK"
-  employer         : 
+  employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=r-rf6a4AAAAJ"
-  email            : "pantonjc@cardiff.ac.uk"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : 
+  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/jamespanton93"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-1345-9406"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Geodynam_Jam"
+  twitter          : "@Lei_geodynamics"
   vine             :
   weibo            :
   xing             :
