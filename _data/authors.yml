@@ -16,3 +16,12 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+  
+# Name Name:
+#   name        : "Zhibin Lei"
+#   uri         : "http://zhibinlei.github.io"
+#   email       : "leiz2@cardiff.ac.uk"
+#   bio         : "This is the first name."
+#   avatar      : "bio-photo-2.jpg"
+#   twitter     : "@Lei_geodynamics"
+#   google_plus : "https://scholar.google.com/citations?hl=en&user=J2loSlUAAAAJ"
